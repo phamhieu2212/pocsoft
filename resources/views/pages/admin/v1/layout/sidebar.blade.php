@@ -1,6 +1,6 @@
 <nav id="sidebar" class="sidebar">
     <div class="sidebar-content ">
-        <a class="sidebar-brand" href="index.html">
+        <a class="sidebar-brand" href="">
             <i class="align-middle" data-feather="box"></i>
             <span class="align-middle">AppStack</span>
         </a>
@@ -14,11 +14,11 @@
                     <i class="align-middle" data-feather="sliders"></i> <span class="align-middle">Dashboard</span>
                 </a>
                 <ul id="dashboards" class="sidebar-dropdown list-unstyled collapse show" data-parent="#sidebar">
-                    <li class="sidebar-item active"><a class="sidebar-link" href="dashboard-default.html">Default</a></li>
-                    <li class="sidebar-item"><a class="sidebar-link" href="dashboard-analytics-1.html">Analytics</a></li>
-                    <li class="sidebar-item"><a class="sidebar-link" href="dashboard-e-commerce.html">E-commerce</a></li>
-                    <li class="sidebar-item"><a class="sidebar-link" href="dashboard-social.html">Social</a></li>
-                    <li class="sidebar-item"><a class="sidebar-link" href="dashboard-crypto.html">Crypto <span class="sidebar-badge badge badge-primary">New</span></a></li>
+                    <li class="sidebar-item active"><a class="sidebar-link" href="">Default</a></li>
+                    <li class="sidebar-item"><a class="sidebar-link" href="">Analytics</a></li>
+                    <li class="sidebar-item"><a class="sidebar-link" href="">E-commerce</a></li>
+                    <li class="sidebar-item"><a class="sidebar-link" href="">Social</a></li>
+                    <li class="sidebar-item"><a class="sidebar-link" href="">Crypto <span class="sidebar-badge badge badge-primary">New</span></a></li>
                 </ul>
             </li>
 
