@@ -24,3 +24,5 @@ Route::get('/admin', function () {
 Route::get('/login', function () {
     return view('pages.admin.v1.auth.login');
 });
+URL::forceScheme('https');
+
