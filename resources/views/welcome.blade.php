@@ -66,7 +66,7 @@
 
         </nav><!-- .nav-menu -->
 
-        <a href="#hero" class="get-started-btn ml-auto">Bắt đầu</a>
+{{--        <a href="#hero" class="get-started-btn ml-auto">Bắt đầu</a>--}}
 
     </div>
 </header><!-- End Header -->
