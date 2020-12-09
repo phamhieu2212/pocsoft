@@ -49,7 +49,7 @@
         <nav class="nav-menu d-none d-lg-block">
 
             <ul>
-                <li class="#hero"><a href="">Trang chủ</a></li>
+                <li class=""><a href="#hero">Trang chủ</a></li>
 
                 <li><a href="#about">Về chúng tôi</a>
                 </li>
