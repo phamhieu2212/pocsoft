@@ -245,9 +245,9 @@
                         <div class="portfolio-info">
                             <h4>Mojo App</h4>
                             <p>Editor Story Instagram</p>
-                            <div class="portfolio-links">
-                                <a href="https://play.google.com/store/apps/details?id=com.mojo.animatedstories&referrer=utm_source%3Dappbrain%26utm_medium%3Dappbrain_web%26utm_campaign%3Dappbrain_web" data-gall="portfolioDetailsGallery" data-vbtype="iframe" class="venobox" title="Portfolio Details"><i class="bx bx-link"></i></a>
-                            </div>
+{{--                            <div class="portfolio-links">--}}
+{{--                                <a href="https://play.google.com/store/apps/details?id=com.mojo.animatedstories&referrer=utm_source%3Dappbrain%26utm_medium%3Dappbrain_web%26utm_campaign%3Dappbrain_web" data-gall="portfolioDetailsGallery" data-vbtype="iframe" class="venobox" title="Portfolio Details"><i class="bx bx-link"></i></a>--}}
+{{--                            </div>--}}
                         </div>
                     </div>
                 </div>
@@ -258,9 +258,9 @@
                         <div class="portfolio-info">
                             <h4>Web hiệp hội du lịch Hà Nội</h4>
                             <p>Web</p>
-                            <div class="portfolio-links">
-                                <a href="http://hanta.org.vn/" data-gall="portfolioDetailsGallery" data-vbtype="iframe" class="venobox" title="Portfolio Details"><i class="bx bx-link"></i></a>
-                            </div>
+{{--                            <div class="portfolio-links">--}}
+{{--                                <a href="http://hanta.org.vn/" data-gall="portfolioDetailsGallery" data-vbtype="iframe" class="venobox" title="Portfolio Details"><i class="bx bx-link"></i></a>--}}
+{{--                            </div>--}}
                         </div>
                     </div>
                 </div>
@@ -271,9 +271,9 @@
                         <div class="portfolio-info">
                             <h4>App Hair Color Change</h4>
                             <p>App</p>
-                            <div class="portfolio-links">
-                                <a href="" data-gall="portfolioDetailsGallery" data-vbtype="iframe" class="venobox" title="Portfolio Details"><i class="bx bx-link"></i></a>
-                            </div>
+{{--                            <div class="portfolio-links">--}}
+{{--                                <a href="" data-gall="portfolioDetailsGallery" data-vbtype="iframe" class="venobox" title="Portfolio Details"><i class="bx bx-link"></i></a>--}}
+{{--                            </div>--}}
                         </div>
                     </div>
                 </div>
@@ -285,9 +285,9 @@
                         <div class="portfolio-info">
                             <h4>App Control Center</h4>
                             <p>App</p>
-                            <div class="portfolio-links">
-                                <a href="https://play.google.com/store/apps/details?id=com.hairedit.haircolorchanger" data-gall="portfolioDetailsGallery" data-vbtype="iframe" class="venobox" title="Portfolio Details"><i class="bx bx-link"></i></a>
-                            </div>
+{{--                            <div class="portfolio-links">--}}
+{{--                                <a href="https://play.google.com/store/apps/details?id=com.hairedit.haircolorchanger" data-gall="portfolioDetailsGallery" data-vbtype="iframe" class="venobox" title="Portfolio Details"><i class="bx bx-link"></i></a>--}}
+{{--                            </div>--}}
                         </div>
                     </div>
                 </div>
