@@ -256,7 +256,7 @@
                     <div class="portfolio-wrap">
                         <img src="{{asset('assets/img/portfolio/portfolio-web-1.png')}}" class="img-fluid" alt="">
                         <div class="portfolio-info">
-                            <h4>Web 3</h4>
+                            <h4>Web hiệp hội du lịch Hà Nội</h4>
                             <p>Web</p>
                             <div class="portfolio-links">
                                 <a href="http://hanta.org.vn/" data-gall="portfolioDetailsGallery" data-vbtype="iframe" class="venobox" title="Portfolio Details"><i class="bx bx-link"></i></a>
@@ -269,7 +269,7 @@
                     <div class="portfolio-wrap">
                         <img src="{{asset('assets/img/portfolio/portfolio-app-3.png')}}" class="img-fluid" alt="">
                         <div class="portfolio-info">
-                            <h4>App Control Center</h4>
+                            <h4>App Hair Color Change</h4>
                             <p>App</p>
                             <div class="portfolio-links">
                                 <a href="" data-gall="portfolioDetailsGallery" data-vbtype="iframe" class="venobox" title="Portfolio Details"><i class="bx bx-link"></i></a>
@@ -283,7 +283,7 @@
                     <div class="portfolio-wrap">
                         <img src="{{asset('assets/img/portfolio/portfolio-app-2.png')}}" class="img-fluid" alt="">
                         <div class="portfolio-info">
-                            <h4>App 3</h4>
+                            <h4>App Control Center</h4>
                             <p>App</p>
                             <div class="portfolio-links">
                                 <a href="https://play.google.com/store/apps/details?id=com.hairedit.haircolorchanger" data-gall="portfolioDetailsGallery" data-vbtype="iframe" class="venobox" title="Portfolio Details"><i class="bx bx-link"></i></a>
